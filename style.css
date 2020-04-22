@@ -1,0 +1,36 @@
+h1 {
+    border: solid cadetblue;
+    border-radius: 20px;
+    width: auto;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+a {
+    display: block;
+    background-color: blue;
+    color: white;
+    border: solid black;
+    width: 300px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px;
+
+}
+
+a:hover {
+    color: tomato;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }

@@ -1,0 +1,18 @@
+label {
+  display: block;
+  text-transform: uppercase;
+}
+
+input {
+  display: block;
+  border-radius: 5px;
+  border-color: green;
+  padding: 10px;
+}
+button {
+  display: block;
+  text-transform: uppercase;
+  border-radius: 20px;
+  background: green;
+  padding: 10px;
+}
